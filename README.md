@@ -22,6 +22,17 @@ Which revolutionizes AI integration, MCP or API? According to Martin Keen, the M
 ```
 Learn how to implement the Model Context Protocol (MCP) to connect your LLMs (like local Ollama models) to external systems. We'll build an MCP server, client, and a Streamlit UI for an AI-powered todo list manager.
 ```
+[Top 10 MCP Use Cases - Using Claude & Model Context Protocol](https://www.youtube.com/watch?v=lzbbPBLPtdY)
+
+```
+In this video there are ten examples of how one can start using MCP right now to perform different tasks directly in Claude.
+```
+
+[Does GitHub's New MCP Server KILL Git Commands? (w/ Cursor)](https://www.youtube.com/watch?v=3ivTdBgzMMI)
+
+```
+The new GitHub MCP (model context protocol) server was recently released. In this video traditional git commands are compared with the GitHub CLI. 
+```
 
 
 📂 MCP Deep Dive Series
