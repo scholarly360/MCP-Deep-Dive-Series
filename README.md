@@ -11,6 +11,14 @@ The Model Context Protocol (MCP) is an open standard introduced by Anthropic in 
 
 📌  Highlights MAY2025
 
+[HuggingFace Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/unit0/introduction)
+
+```
+The "Introduction" unit of Hugging Face's Model Context Protocol (MCP) Course serves as an onboarding guide
+for learners interested in integrating AI models with external tools and data sources. This free course is
+designed to take participants from foundational knowledge to practical application of MCP.
+```
+
 [MCP vs API: Simplifying AI Agent Integration with External Data](https://www.youtube.com/watch?v=7j1t3UZA1TY)
 
 ```
