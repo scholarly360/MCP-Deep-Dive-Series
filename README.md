@@ -13,7 +13,7 @@ The Model Context Protocol (MCP) is an open standard introduced by Anthropic in 
 
 [HuggingFace Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/unit0/introduction)
 
-![HuggingFace Model Context Protocol (MCP) Course](Images/hf_course.png.png)
+![HuggingFace Model Context Protocol (MCP) Course](./Images/hf_course.png)
 
 ```
 The "Introduction" unit of Hugging Face's Model Context Protocol (MCP) Course serves as an onboarding guide
