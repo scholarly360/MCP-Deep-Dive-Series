@@ -11,6 +11,16 @@ The Model Context Protocol (MCP) is an open standard introduced by Anthropic in 
 
 📌  Highlights MAY2025
 
+[Your API is not an MCP | DEMFP786](https://www.youtube.com/watch?v=eeOANluSqAE)
+
+```
+A lot of companies have jumped on the MCP bandwagon by quickly auto-generating their MCP servers from their APIs.
+This isn’t right as MCP servers are made to be consumed by LLMs and not by humans.
+Join us to better understand why MCPs have to be thought of carefully.
+Experience examples of tools that make sense for agents but not for humans, and why you
+should be careful designing your MCP set of tools and resources.
+```
+
 [HuggingFace Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/unit0/introduction)
 
 ![HuggingFace Model Context Protocol (MCP) Course](./Images/hf_course.png)
