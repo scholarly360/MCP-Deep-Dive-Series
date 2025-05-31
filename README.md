@@ -11,6 +11,13 @@ The Model Context Protocol (MCP) is an open standard introduced by Anthropic in 
 
 📌  Highlights MAY2025
 
+[MCP Servers in VS Code](https://www.youtube.com/watch?v=Coot4TFTkN4)
+
+```
+In this clip from Agent Mode Day, James Montemagno demos MCP Servers in VS Code!
+Docker is used to run mcp servers
+Examples taken from : https://github.com/modelcontextprotocol/servers
+```
 [Your API is not an MCP | DEMFP786](https://www.youtube.com/watch?v=eeOANluSqAE)
 
 ```
