@@ -8,6 +8,15 @@ MCP-Deep-Dive-Series is a monthly curated collection of resources dedicated to t
 
 The Model Context Protocol (MCP) is an open standard introduced by Anthropic in late 2024. It facilitates seamless communication between AI assistants and external tools or data sources, enabling structured, secure, and extensible interactions. MCP supports various transport protocols like stdio and HTTP with Server-Sent Events (SSE), and it's designed to be model-agnostic, allowing integration across different AI systems.
 
+📌  Highlights JUN2025
+
+[The last MCP server you'll ever need](https://www.youtube.com/watch?v=_821hYFZyCo)
+
+```
+Docker just solved MCP servers' biggest problems - from chaotic setup to security nightmares.
+The MCP Toolkit extension transforms how we discover, install, and secure Model Context Protocol servers
+with centralized management and containerized isolation.
+```
 
 📌  Highlights MAY2025
 
