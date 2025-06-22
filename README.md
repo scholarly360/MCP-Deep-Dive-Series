@@ -10,6 +10,13 @@ The Model Context Protocol (MCP) is an open standard introduced by Anthropic in 
 
 📌  Highlights JUN2025
 
+[The Model Context Protocol (MCP)](https://www.youtube.com/watch?v=CQywdSdi5iA)
+
+```
+Theo Chu, David Soria Parra and Alex Albert from Anthropic dive into the Model Context Protocol (MCP),
+the standard that's changing how AI applications connect with external data and tools.
+```
+
 [The last MCP server you'll ever need](https://www.youtube.com/watch?v=_821hYFZyCo)
 
 ```
